@@ -7,19 +7,19 @@ All links will open in the same tab/window. Right-click to keep this page open a
 
 ## My website
 
-* [Melyanna.net](http://melyanna.net/) • this is my landing page. Currently work in progress.
+* [Rafayet](http:/https://rafayet13.wordpress.com/) • this is my landing page. Currently work in progress.
 
 ## Places I haunt
 
-* [Tumblr](http://melyanna.tumblr.com/) • my art blog, with bonus cats and tea reviews.
+* [Twitter](https://twitter.com/RafayetHo/) • my art blog, with bonus cats and tea reviews.
 
-## Places I haunt... In Italian
+## Places I haunt...
 
-* [Taccuino digitale](https://taccuinodigitale.wordpress.com/) • this is my wordpress blog.
+* [Medium](https://medium.com/@rafayet13) • this is my wordpress blog.
 
 ## Useful stuff, and things I like
 
-* [Twine](http://twinery.org/) • An open-source tool for making interactive stories and games. Very easy learning curve, lots of fun.
-* [Sortingh.at](http://www.sortingh.at/) •  Tool that gives personalized resources to help get started making games. By [Zoë Quinn](http://www.unburntwitch.com/).
-* [Icon generators](http://www.icongenerators.net/index.html) • Make cool avatars and icons, like the ones I am using in this blog.
-* [Subtle Patterns](http://subtlepatterns.com/) • The background images of this blog come from this site.
+* [LinkedIn](https://www.linkedin.com/in/rafayet13/) • An open-source tool for making interactive stories and games. Very easy learning curve, lots of fun.
+* [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Zoë Quinn](http://www.unburntwitch.com/).
+* [Icon generators]() • Make cool avatars and icons, like the ones I am using in this blog.
+* [Subtle Patterns]() • The background images of this blog come from this site.
