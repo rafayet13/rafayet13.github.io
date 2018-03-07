@@ -1,25 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: A list of my projects and some useful links
+subtitle: Big Data Analyst, Web Developer, Writter & Internet Addict
 ---
-All links will open in the same tab/window. Right-click to keep this page open and open links in a new tab/window.
+Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like to work with honesty, sincerity, and creativity.
 
 ## My website
 
-* [Rafayet](http:/https://rafayet13.wordpress.com/) • this is my landing page. Currently work in progress.
+* [Rafayet](http://sumct1.lictproject.com/) • This is a sample project of mine. Currently work in progress.
 
 ## Places I haunt
 
-* [Twitter](https://twitter.com/RafayetHo/) • my art blog, with bonus cats and tea reviews.
+* [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
 
 ## Places I haunt...
 
-* [Medium](https://medium.com/@rafayet13) • this is my wordpress blog.
+* [Medium](https://medium.com/@rafayet13) • This is my medium page.
 
 ## Useful stuff, and things I like
 
-* [LinkedIn](https://www.linkedin.com/in/rafayet13/) • An open-source tool for making interactive stories and games. Very easy learning curve, lots of fun.
-* [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Zoë Quinn](http://www.unburntwitch.com/).
-* [Icon generators]() • Make cool avatars and icons, like the ones I am using in this blog.
-* [Subtle Patterns]() • The background images of this blog come from this site.
+* [LinkedIn](https://www.linkedin.com/in/rafayet13/) • Biggest sites for the professionals to share ones thoughts and views, also helpful getting new job. 
+* [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Rafayet Hossain](http://www.rafayet13.blogspot.com/).
+* [Icon generators]() • More info is coming soon.
