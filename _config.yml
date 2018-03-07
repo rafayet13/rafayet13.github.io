@@ -26,8 +26,9 @@ navbar-links:
   Blog: ""
   About Me: "about"
   Archive:
-      - Tag cloud: "tags"
+      - Tag cloud: "More"
       # --- - Table of content: "toc" --- #
+  Resume: "https://rafayet13.github.io/Resume//"
   Website: "http://execute-bangla.blogspot.com/"
   Subscribe: "subscribe"
   ?: "search"
