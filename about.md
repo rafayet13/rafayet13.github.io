@@ -7,7 +7,7 @@ Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like
 
 ## My website
 
-* [Rafayet](http://sumct1.lictproject.com/) • This is a sample project of mine. Currently work in progress.
+* [Rivu](http://sumct1.lictproject.com/) • This is a sample project of mine. Currently work in progress.
 
 ## Places I haunt
 
