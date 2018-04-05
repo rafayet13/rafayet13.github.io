@@ -3,12 +3,12 @@ layout: post
 title: 'Laravel For Absolute Beginners  '
 subtitle: Yay for productivity and sore throats...
 tags:
-  - Elementary
-  - Twine
-  - productivity
-  - gaming
-  - videogames
-published: false
+  - Laravel 
+  - PHP Framework
+  - Web Application
+  - Programing
+  - laravel tutorial
+published: true
 ---
 
 ## Learn By Doing It.
