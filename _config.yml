@@ -23,14 +23,14 @@ description: Blog, Scrapbook, and Virtual space for my experiments ralated to Co
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
+  Blogs: ""
   About Me: "about"
   Archive:
       - Tag cloud: "More"
+      - Subscribe: "subscribe"
       # --- - Table of content: "toc" --- #
   Resume: "https://rafayet13.github.io/Resume/"
   Website: "http://execute-bangla.blogspot.com/"
-  Subscribe: "subscribe"
   Search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
