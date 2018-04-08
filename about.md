@@ -12,13 +12,17 @@ Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like
 ## Places I haunt
 
 * [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
-
-## Places I haunt...
-
 * [Medium](https://medium.com/@rafayet13) • This is my medium page.
+* [LinkedIn](https://www.linkedin.com/in/rafayet13) • This is my LinkedIn Profile.
+
+
+## Me on Youtube
+
+* [YouTube](https://www.youtube.com/channel/UCsTNdhx0etbm-571LVTCW2g/featured?view_as=subscriber) • This is my Youtube Profile.
+
 
 ## Useful stuff, and things I like
 
 * [LinkedIn](https://www.linkedin.com/in/rafayet13/) • Biggest sites for the professionals to share ones thoughts and views, also helpful getting new job. 
 * [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Rafayet Hossain](http://www.rafayet13.blogspot.com/).
-* [Icon generators]() • More info is coming soon.
+* () • More info is coming soon.
