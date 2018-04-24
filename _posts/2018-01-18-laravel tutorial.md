@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Laravel For Absolute Beginners  '
-subtitle: Yay for productivity and sore throats...
+subtitle: Easy way to Learn Laravel Framework...
 tags:
   - Laravel 
   - PHP Framework
