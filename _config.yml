@@ -23,7 +23,7 @@ description: Blog, Scrapbook, and Virtual space for my experiments ralated to Co
 
 # List of links in the navigation bar
 navbar-links:
-  Blogs: ""
+  Blogs: "/"
 
   Resume: "https://rafayet13.github.io/Resume/"
   About Me: "about"
