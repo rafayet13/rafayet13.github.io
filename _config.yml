@@ -24,12 +24,12 @@ description: Blog, Scrapbook, and Virtual space for my experiments ralated to Co
 # List of links in the navigation bar
 navbar-links:
   Blogs: ""
-
+  Selenium with Python: "http://rafayethossain.github.io/"
   Resume: "https://rafayet13.github.io/Resume/"
   About Me: "about"
   Search: "search"
   
-  Website: "http://execute-bangla.blogspot.com/"
+  
   
    Archive:
       - Tag cloud: "More"
