@@ -28,10 +28,7 @@ navbar-links:
   Resume: "https://rafayet13.github.io/Resume/"
   About Me: "about"
   Search: "search"
-  
-  
-  
-   Archive:
+  Archive:
       - Tag cloud: "More"
       - Subscribe: "subscribe"
       # --- - Table of content: "toc" --- #
