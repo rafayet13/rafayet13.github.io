@@ -25,7 +25,7 @@ The Selenium Webdriver library is compatible with a series of Python versions th
  In this course we are gonna learn selenium automation with with python 3
  
 
-<img src="/img/04112018/tiny-2018-11-03.png" alt="A drawing of a raven perched on a tree branch." align="center"/>
+<img src="/img/diary.png" alt="Dairy." align="center"/>
 
 *Black ink and markers on Fabriano a A4 rough paper.*
 
