@@ -7,7 +7,6 @@ image: /img/diary.png
 share-img: /img/diary.png
 ---
 
-
 Let's start with my introduction so you guys know whom you're going to be interacting with.
 
 My name is Rafayet and I'm going to be your guide in these Automation journey which is selenium automation testing with python. I have been in the software industry for years now and have been doing things like devlopment and testing.  building automation frameworks and mentoring and encouraging newcomers alag developing as well as breaking the software and taking discourse.
