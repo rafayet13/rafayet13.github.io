@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Big Data Analyst, SQA, Web Programmer, Writter & Internet Addict
 ---
+Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like to work with honesty, sincerity, and creativity.
 
-My name is Inigo Montoya. I have the following qualities:
+## My website
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* [Rivu](http://sumct1.lictproject.com/) • This is a sample project of mine. Currently work in progress.
 
-What else do you need?
+## Places I haunt
 
-### my history
+* [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
+* [Medium](https://medium.com/@rafayet13) • This is my medium page.
+* [LinkedIn](https://www.linkedin.com/in/rafayet13) • This is my LinkedIn Profile.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+## Me on Youtube
+
+* [YouTube](https://www.youtube.com/channel/UCsTNdhx0etbm-571LVTCW2g/featured?view_as=subscriber) • This is my Youtube Profile.
+
+
+## Useful stuff, and things I like
+
+* [LinkedIn](https://www.linkedin.com/in/rafayet13/) • Biggest sites for the professionals to share ones thoughts and views, also helpful getting new job. 
+* [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Rafayet Hossain](http://www.rafayet13.blogspot.com/).
+* () • More info is coming soon.
