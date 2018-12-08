@@ -25,7 +25,7 @@ description: Blog, Scrapbook, and Virtual space for my experiments ralated to Co
 navbar-links:
   Blogs: ""
   Archive:
-      - Tag cloud: "More"
+      - Tag cloud: "tags"
       - Subscribe: "subscribe"
   Resume: "https://rafayet13.github.io/Resume/"
   About Me: "aboutme"
