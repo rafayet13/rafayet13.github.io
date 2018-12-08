@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selenium Web Automation -Introduction to  Selenium and Python
+title: Selenium Web Automation -Introduction to  Selenium and Python Part- 01
 subtitle: Selenium Webdriver Python Tutorial For Web Automation - Complete Journey
 tags: [sqa, software testing, selenium, webdriver, python]
 image: /img/diary.png
