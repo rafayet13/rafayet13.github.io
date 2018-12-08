@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://rafayethossain.github.io"
+url: "https://username.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,23 +17,20 @@ baseurl: ""
 title: Hello!
 
 # Short description of your site
-description: Site has been updated.
+description: The site updated
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "https://rafayet13.github.io/Resume"
-  Search: "search"
-  Website: "https://rafayet13.github.io"
-  Archive:
-- Tag cloud: "More"
-- Subscribe: "subscribe"
+  Resources:
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar/tonks.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -65,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rafayet Hossain
+  name: Some Person
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,25 +70,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-   author:
-   name: Rafayet Hossain
-   email: "rafayet13@gmail.com"
-   facebook: rafayethossain13  # eg. daattali
-   github: rafayet13    # eg. daattali
-   twitter: RafayetHossain   # eg. daattali
-   reddit: yourname    # eg. daattali
-   google-plus: +RafayetHossainCSE  # eg. +DeanAttali or 109424658772469020925
-   linkedin: rafayet13  # eg. "pub/dean-attali/8/946/143"
-   xing: yourname      # eg. daattali
-   stackoverflow:   # eg. "3943160/daattali"
-   snapchat: yourname  # eg. daattali
-   instagram: rafayet13 # eg. daattali
-   youtube: yourlink # eg. user/daattali or channel/daattali
-   spotify: yourname   # eg. daattali
-   telephone: yourphone   # eg. +14159998888
-   steam: yourname     # eg.
-   twitch: yourname    # eg.
-   yelp: yourname      # eg.
+  email: "someone@example.com"
+  facebook: daattali
+  github: daattali
+  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -161,13 +143,14 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Dhaka"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+
 kramdown:
-input: GFM
+  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
