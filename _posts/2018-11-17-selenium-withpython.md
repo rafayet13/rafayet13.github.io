@@ -3,7 +3,7 @@ layout: post
 title: Selenium Automation Testing with Python Course Announcement Part -00
 subtitle: Selenium Webdriver Python Tutorial For Web Automation - Complete Journey
 tags: [sqa, software testing, selenium, python]
-image: /img/diary.png'
+image: /img/diary.png
 bigimg: /img/cover.jpg
 share-img: /img/diary.png
 ---
