@@ -8,6 +8,7 @@ share-img: /img/diary.png
 tags: [sqa,software testing, python, automation,selenium]
 ---
 
+Welcome All ! to the 30 minutes daily automation journey with Seleneium & Python. 
 Let's start with my introduction so you guys know whom you're going to be interacting with.
 
 My name is **Rafayet Hossain** and I'm going to be your guide in these Automation journey which is **Selenium automation testing with Python**. I have been in the software industry for years now and have been doing things like devlopment and testing.  building automation frameworks and mentoring and encouraging newcomers alag developing as well as breaking the software and taking discourse.
@@ -22,6 +23,16 @@ More practice means better learning and software is passion. Spreading knowledge
 
 So please again welcome to the most comprehensive course on the internet.
 
+*Let's know the  course content what we are going to learn through out the journey*
+* Python Configuration & Basic Idea
+* Setting up Selenium Environment With Python
+* Selenium Web Element 
+* Methods & Properties
+* Data Driven Test
+* Pytest
+* Automation Framework 
+* Small Projects
+* and So on
 
 So I'll see in the next guys.
 
