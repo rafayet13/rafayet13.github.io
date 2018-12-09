@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Software Testing Automation  with Selenium & Python - 30 Minutes A Day Challenge   
-subtitle: Python Selenium Webdriver A Complete Journey - Day 00: Course Announcement
-tags: [sqa, software testing, selenium, python]
+title: Python Selenium Webdriver A Complete Journey - Day 00: Course Announcement
+subtitle: Software Testing Automation  with Selenium & Python - 30 Minutes A Day Challenge 
+bigimg: /img/anim.gif
+tags: [sqa, testing, software, python, selenium, automation]
 image: /img/diary.png
-bigimg: /img/cover.jpg
 share-img: /img/diary.png
 ---
+
 
 Let's start with my introduction so you guys know whom you're going to be interacting with.
 
