@@ -6,7 +6,7 @@ title: Python Selenium Automation Journey - Day 03- Setting Up Python in Windows
 subtitle: Software Test Automation with Selenium & Python - 30 Minutes A Day Challenge 
 tags: [sqa, software testing, selenium, python, pycharm, install python]
 image: /img/selenium-with-python.png
-bigimg: /back/back.gif
+bigimg: /img/back.gif
 ---
 ## Install python on your work Environment 
 
@@ -24,5 +24,5 @@ To install **PyCharm** Python IDE, just download the Community Edition (which is
 Kind regards,
 
 
+ ![Selenium with Python](/img/selenium-with-python.png "Selenium with Python")
  
-<img src="/img/selenium-with-python.png" />
