@@ -10,7 +10,7 @@ bigimg: /img/back.gif
 ---
 ## Install python on your work Environment 
 
-To install Python, download Python 3.6 (or higher) from  [http://www.python.org]:  .
+To install Python, download Python 3.6 (or higher) from  [http://www.python.org]  .
 
 It  Extremely important: when you install it, make sure to check "Add Python to PATH".
 
@@ -19,7 +19,7 @@ Once Python is installed, you can execute the program "cmd.exe ". This is a comm
 At all points during the course, you can always type python name_of_file.py  and that will execute the code of a file called name_of_file.py .
 
 To install **PyCharm** Python IDE, just download the Community Edition (which is free) from
-[https://www.jetbrains.com/pycharm/]: .
+[https://www.jetbrains.com/pycharm/] .
 
 Kind regards,
 
