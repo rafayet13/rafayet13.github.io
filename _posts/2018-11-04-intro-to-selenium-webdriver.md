@@ -1,13 +1,13 @@
-
 ---
 layout: post
-title: Software Testing Automation  with Selenium & Python - 30 Minutes A Day Challenge   
-subtitle: Python Selenium Webdriver A Complete Journey - Day 01: Intro to Selenium
+title: Python Selenium Webdriver A Complete Journey - Day 01: Intro to Selenium    
+subtitle: Software Testing Automation  with Selenium & Python - 30 Minutes A Day Challenge 
 tags: [sqa, software testing, selenium, webdriver, python]
 image: /img/diary.png
 bigimg: /img/anim.gif
 share-img: /img/diary.png
 ---
+ 
 
 Selenium WebDriver is one of the most popular tools for Web UI Automation. And no better than Python can complement it to automate a broad range of web applications. Hence, we brought this Selenium Webdriver Python tutorial to ramp you up quickly on the task. So let’s start by understanding what all we have to do in UI automation testing.
 
