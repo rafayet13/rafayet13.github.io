@@ -24,4 +24,4 @@ Kind regards,
 
 
  
-<img src="/image/selenium-with-python" alt="Dairy." />
+<img src="/image/selenium-with-python.png" alt="Dairy." />
