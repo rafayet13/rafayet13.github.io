@@ -12,3 +12,5 @@ bigimg: https://i.gifer.com/J4x.gif
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for > formatting help.
 Hello
+ 
+<img src="https://i.gifer.com/J4x.gif" alt="Dairy." align="center"/>
