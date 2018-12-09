@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Python Selenium Webdriver Automation Journey - Day 00- Course Announcement
+subtitle: Software Test Automation  with Selenium & Python - 30 Minutes A Day Challenge
 bigimg: /img/anim.gif
+image: /img/diary.png
+share-img: /img/diary.png
 tags: [sqa,software testing, python, automation,selenium]
 ---
 
