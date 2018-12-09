@@ -5,7 +5,7 @@ layout: post
 title: Test-prose-io.md
 subtitle: Selenium Webdriver Python Tutorial For Web Automation - Complete Journey
 tags: [sqa, software testing, selenium, python]
-image: /img/diary.png
+image: /img/selenium-python.png
 bigimg: /img/anim.gif
 ---
 ## Test Post
