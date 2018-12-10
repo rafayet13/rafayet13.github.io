@@ -1,9 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Create Your First Python Project - Day 04- Python Selenium Automation Journey
   -
+date: '2018-12-10'
+subtitle: Software Test Automation with Selenium & Python - 30 Minutes A Day Challenge
 ---
 ## The best approach is to use an actual coding editor. Some people prefer an Integrated Development Environment (IDE), but a far simpler code editor is much better for learning purposes.
 
