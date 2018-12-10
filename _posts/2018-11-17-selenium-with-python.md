@@ -5,7 +5,13 @@ subtitle: Software Test Automation  with Selenium & Python - 30 Minutes A Day Ch
 bigimg: /img/back.gif
 image: /img/selenium-with-python.png
 share-img: /img/selenium-with-python.png
-tags: [sqa,software testing, python, automation,selenium]
+tags:
+  - sqa
+  - software testing
+  - python
+  - automation
+  - selenium
+published: true
 ---
 
 Welcome All ! to the 30 minutes daily automation journey with Seleneium & Python. 
