@@ -68,7 +68,7 @@ There are many lists out there with ideas for beginner Python projects. Here are
  - Simple calculator app
  - Dice roll simulator and so on
  
- #Tip 7: Contribute to Open Source
+ # Tip 7: Contribute to Open Source
 In the open-source model, software source code is available publicly, and anyone can collaborate. There are many
 Python libraries that are open-source projects and take contributions. Additionally, many companies publish opensource projects.
 This means you can work with code written and produced by the engineers working in these
