@@ -1,7 +1,12 @@
 ---
 layout: post
-published: false
-title: Untitled
+title: How To Install Python on Windows PC  - Day 03-Python Selenium Automation Journey   
+subtitle: Software Test Automation with Selenium & Python - 30 Minutes A Day Challenge
+tags: [sqa, software testing, selenium, webdriver, python]
+image: /img/selenium-with-python.png
+bigimg: /img/back.gif
+published: true
+share-img: /img/selenium-with-python.png
 ---
 ## Install python on your work Environment 
 
@@ -31,7 +36,8 @@ You can use the Integrated DeveLopment Environment **(Python IDLE)**  to code in
 At all points during the course, you can always type python name_of_file.py  and that will execute the code of a file called name_of_file.py .
 
 To install **PyCharm** Python IDE, just download the Community Edition (which is free) from
-[https://www.jetbrains.com/pycharm/] .
+
+[Download Pycharm](https://www.jetbrains.com/pycharm/) .
 
 Kind regards,
 
