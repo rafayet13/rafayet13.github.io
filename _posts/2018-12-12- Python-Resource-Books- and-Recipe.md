@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Python Books Collection Free Download - Day 04- Python Selenium Automation Journey   
+title: Best Python Books Collection Free Download - Day 05- Python Selenium Automation Journey   
 subtitle: Software Test Automation with Selenium & Python - 30 Minutes A Day Challenge
 tags: [python tutorial, python tips, selenium, python, python resource, python books]
 image: /img/selenium-with-python.png
