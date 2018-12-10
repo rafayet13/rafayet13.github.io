@@ -9,7 +9,7 @@ share-img: /img/selenium-with-python.png
 ---
 
 ## Here I am going to share with some of best books written on python.
-__ you can just download them directly clicking **download** for free.__ 
+__you can just download them directly clicking **download** for free.__ 
 
 # Free Python Books
 
@@ -21,7 +21,9 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 ## List of Books
 
-You can find all the books listed below in [**book**](/book) folder of this repo:
+You can find all the books listed below in [**book**](https://github.com/rafayet13/Free-Python-Books/blob/master/book) folder of this repo:
+
+#### Note : If any direct link does not work, visit the Book  [**All Book**](https://github.com/rafayet13/Free-Python-Books/blob/master/book) directory. 
 
 * A Byte of Python [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/A%20Byte%20of%20Python.pdf)
 * Automate it! - Recipes to upskill your business [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
@@ -37,8 +39,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Building Skills in Python [[Download]](/book/Building%20Skills%20in%20Python.pdf)
 * Building Web Applications with Flask [[Download]](/book/Building%20Web%20Applications%20with%20Flask.pdf)
 * Cloud Native Python [[Download]](/book/Cloud%20Native%20Python.azw3)
-* Computer Simulation - A Foundational Approach Using Python [[Download]](/book/Computer%20Simulation%20-%20A%20Foundational%20Approach%20Using%20Python.pdf)
-* Cracking Codes with Python - An Introduction to Building and Breaking Ciphers [[Download]](/book/Cracking%20Codes%20with%20Python%20-%20An%20Introduction%20to%20Building%20and%20Breaking%20Ciphers.epub)
+* Computer Simulation - A Foundational Approach Using Python [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Computer%20Simulation%20-%20A%20Foundational%20Approach%20Using%20Python.pdf)
+* Cracking Codes with Python - An Introduction to Building and Breaking Ciphers [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Cracking%20Codes%20with%20Python%20-%20An%20Introduction%20to%20Building%20and%20Breaking%20Ciphers.epub)
 * Daniel Arbuckle's Mastering Python [[Download]](/book/Daniel%20Arbuckle%27s%20Mastering%20Python.epub)
 * Data Structures & Algorithms in Python [[Download]](/book/Data%20Structures%20%26%20Algorithms%20in%20Python.pdf)
 * Data Structures and Algorithms in Python [[Download]](/book/Data%20Structures%20and%20Algorithms%20in%20Python.pdf)
@@ -49,7 +51,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Django 1.1 Testing and Debugging [[Download]](/book/Django%201.1%20Testing%20and%20Debugging.pdf)
 * Django Design Patterns and Best Practices [[Download]](/book/Django%20Design%20Patterns%20and%20Best%20Practices.pdf)
 * Effective Python - 59 Specific Ways to Write Better Python [[Download]](/book/Effective%20Python%20-%2059%20Specific%20Ways%20to%20Write%20Better%20Python.epub)
-* Effective Python Penetration Testing [[Download]](/book/Effective%20Python%20Penetration%20Testing.pdf)
+* Effective Python Penetration Testing [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Effective%20Python%20Penetration%20Testing.pdf)
 * Expert Python Programming - Second Edition [[Download]](/book/Expert%20Python%20Programming%20-%20Second%20Edition.pdf)
 * Expert Python Programming [[Download]](/book/Expert%20Python%20Programming.pdf)
 * Flask Blueprints [[Download]](/book/Flask%20Blueprints.pdf)
@@ -63,7 +65,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Instant Flask Web Development [[Download]](/book/Instant%20Flask%20Web%20Development.pdf)
 * IPython Interactive Computing and Visualization Cookbook [[Download]](/book/IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf)
 * Learn More Python 3 the Hard Way - The Next Step for New Python Programmers [[Download]](/book/Learn%20More%20Python%203%20the%20Hard%20Way%20-%20The%20Next%20Step%20for%20New%20Python%20Programmers.pdf)
-* Learn Python In A DAY - The Ultimate Crash Course to Learning the Basics of Python In No Time [[Download]](/book/Learn%20Python%20In%20A%20DAY%20-%20The%20Ultimate%20Crash%20Course%20to%20Learning%20the%20Basics%20of%20Python%20In%20No%20Time.epub)
+* Learn Python In A DAY - The Ultimate Crash Course to Learning the Basics of Python In No Time [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Learn%20Python%20In%20A%20DAY%20-%20The%20Ultimate%20Crash%20Course%20to%20Learning%20the%20Basics%20of%20Python%20In%20No%20Time.epub)
 * Learning Cython Programming [[Download]](/book/Learning%20Cython%20Programming.pdf)
 * Learning OpenCV 3 Computer Vision with Python - Second Edition [[Download]](/book/Learning%20OpenCV%203%20Computer%20Vision%20with%20Python%20-%20Second%20Edition.pdf)
 * Learning Python - Fabrizio Romano [[Download]](/book/Learning%20Python%20-%20Fabrizio%20Romano.pdf)
@@ -93,7 +95,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Pro Django [[Download]](/book/Pro%20Django.pdf)
 * Pro IronPython [[Download]](/book/Pro%20IronPython.pdf)
 * Pro Python - Second Edition [[Download]](/book/Pro%20Python%20-%20Second%20Edition.pdf)
-* Pro Python Best Practices - Debugging, Testing and Maintenance [[Download]](/book/Pro%20Python%20Best%20Practices%20-%20Debugging%2C%20Testing%20and%20Maintenance.pdf)
+* Pro Python Best Practices - Debugging, Testing and Maintenance [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Pro%20Python%20Best%20Practices%20-%20Debugging%2C%20Testing%20and%20Maintenance.pdf)
 * Pro Python System Administration - Second Edition [[Download]](/book/Pro%20Python%20System%20Administration%20-%20Second%20Edition.pdf)
 * Professional Python [[Download]](/book/Professional%20Python.epub)
 * Programming in Python 3 - A Complete Introduction to the Python Language - Second Edition [[Download]](/book/Programming%20in%20Python%203%20-%20A%20Complete%20Introduction%20to%20the%20Python%20Language%20-%20Second%20Edition.pdf)
@@ -114,7 +116,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Python for Secret Agents - Volume II [[Download]](/book/Python%20for%20Secret%20Agents%20-%20Volume%20II.pdf)
 * Python for Secret Agents [[Download]](/book/Python%20for%20Secret%20Agents.pdf)
 * Python for Software Design - How to Think Like a Computer Scientist [[Download]](/book/Python%20for%20Software%20Design%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
-* Python for the Busy Java Developer [[Download]](/book/Python%20for%20the%20Busy%20Java%20Developer.pdf)
+* Python for the Busy Java Developer [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Python%20for%20the%20Busy%20Java%20Developer.pdf)
 * Python Geospatial Development - Third Edition [[Download]](/book/Python%20Geospatial%20Development%20-%20Third%20Edition.pdf)
 * Python GUI Programming Cookbook [[Download]](/book/Python%20GUI%20Programming%20Cookbook.pdf)
 * Python High Performance Programming [[Download]](/book/Python%20High%20Performance%20Programming.pdf)
@@ -136,7 +138,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Scientific Computing with Python 3 [[Download]](/book/Scientific%20Computing%20with%20Python%203.pdf)
 * Software Architecture with Python [[Download]](/book/Software%20Architecture%20with%20Python.pdf)
 * Spark for Python Developers [[Download]](/book/Spark%20for%20Python%20Developers.pdf)
-* Test-Driven Development with Python - Second Edition [[Download]](/book/Test-Driven%20Development%20with%20Python%20-%20Second%20Edition.pdf)
+* Test-Driven Development with Python - Second Edition [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/Test-Driven%20Development%20with%20Python%20-%20Second%20Edition.pdf)
 * The Definitive Guide to Django [[Download]](/book/The%20Definitive%20Guide%20to%20Django.pdf)
 * The Python Apprentice [[Download]](/book/The%20Python%20Apprentice.epub)
 * The Quick Python Book - Second Edition [[Download]](/book/The%20Quick%20Python%20Book%20-%20Second%20Edition.pdf)
