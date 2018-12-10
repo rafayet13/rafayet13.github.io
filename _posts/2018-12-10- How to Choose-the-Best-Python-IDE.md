@@ -28,15 +28,19 @@ A Python program, in its basic form, is simply lines of text (code) saved in a f
 ## Which one should I pick?
 I've tried  tens of python IDE over the year. where I found some are very useful & handy.
 These are my favourites:
+
++ Most Popular Python IDE
 1. Anaconda Python IDE (A complete python IDE)
 2. PyCharm IDE
+
 + Light Weight Python IDE
-3. Visual Studio Code
-4. Sublime Text
-5. Python IDLE
-6. Notepad ++
+
+1. Visual Studio Code
+2. Sublime Text
+3. Notepad ++
 
 Use Any of them as concindering your system compatability.
+Or you can just use your Built in Python IDLE with Python Installer no hassel.
 
 See Yaaa,
 
