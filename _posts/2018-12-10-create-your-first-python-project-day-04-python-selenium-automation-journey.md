@@ -1,11 +1,15 @@
 ---
 layout: post
 published: true
-title: >-
-  Create Your First Python Project - Day 04- Python Selenium Automation Journey
-  -
-date: '2018-12-10'
+title: Picking up the Best Python IDE  - Day 05- Python Selenium Automation Journey
 subtitle: Software Test Automation with Selenium & Python - 30 Minutes A Day Challenge
+tags: [sqa, software testing, selenium, webdriver, python]
+image: /img/selenium-with-python.png
+bigimg: /img/back.gif
+published: true
+share-img: /img/selenium-with-python.png
+date: '2018-12-10'
+ 
 ---
 ## The best approach is to use an actual coding editor. Some people prefer an Integrated Development Environment (IDE), but a far simpler code editor is much better for learning purposes.
 
@@ -26,6 +30,13 @@ A Python program, in its basic form, is simply lines of text (code) saved in a f
 ## Which one should I pick?
 I've tried  tens of python IDE over the year. where I found some are very useful & handy.
 These are my favourites:
-1. 
+1. Anaconda Python IDE (A complete python IDE)
+2. PyCharm IDE
++ Light Weight Python IDE
+3. Visual Studio Code
+4. Sublime Text
+5. Python IDLE
+6. Notepad ++
 
+Use Any of them as you want.
 
