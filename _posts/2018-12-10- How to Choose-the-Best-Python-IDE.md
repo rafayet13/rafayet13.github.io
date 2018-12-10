@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Picking Up The Best Python IDE  - Day 05- Python Selenium Automation Journey   
+title: Picking Up The Best Python IDE  - Day 03- Python Selenium Automation Journey   
 subtitle: Software Test Automation with Selenium & Python - 30 Minutes A Day Challenge
 tags: [sqa, software testing, selenium, webdriver, python]
 image: /img/selenium-with-python.png
