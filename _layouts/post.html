@@ -58,10 +58,11 @@ layout: base
           <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
         </li>
         {% endif %}
-        
+        {% if paginator.total_pages > 1 %}
         <span class="page_number ">
     Post: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
+       </span>
+         {% endif %}
         
         {% if page.next.url %}
         <li class="next">
