@@ -40,7 +40,11 @@ from selenium import webdriver
 browser = webdriver.Firefox()
 browser.get('http://www.google.com')
 ```
-__More information can be found on Python Selenium site.__
+* More information can be found on Python Selenium site. *
+
+## Noting
+{: .box-note}
+**Note:** This is a notification box.
 
 
 #See Yaaa, Next 
