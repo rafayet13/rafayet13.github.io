@@ -4,7 +4,7 @@ title: Rafayet Hossain
 subtitle: Big Data Analyst, SQA, Web Programmer, Writer & Internet Addict
 ---
 Hello All,
-This Rafayet Hossain from Dhaka. A self-motivated person of positivity who likes to work with honesty, sincerity, and creativity.
+This Rafayet Hossain from Dhaka, Bangladesh, a self-motivated person of positivity who likes to work with honesty, sincerity, and creativity. I firmly believe in hard work, I'm always open to new idea.
 
 ## My website
 
