@@ -9,7 +9,7 @@ share-img: /img/selenium-with-python.png
 ---
 
 ## Hello Again !
-{: .box-success}
+{: .box-note}
 
 Today we're going to run our first Selenium web testing with Selenium Python web bindings. 
 If you have already installed Selenium Python bindings, you can start Web Automation Testing  using your Python IDE.
@@ -110,7 +110,7 @@ The quit will exit entire browser whereas close` will close one tab, but if just
 driver.close()
 
 ```
-#See Yaaa, Next 
+# See Yaaa, Next 
 
 ![Selenium with Python](/img/selenium-with-python.png "Selenium with Python")
 
