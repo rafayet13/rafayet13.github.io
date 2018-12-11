@@ -42,8 +42,9 @@ browser.get('http://www.google.com')
 ```
 * More information can be found on Python Selenium site. *
 
-## Noting
+## Note
 {: .box-note}
+
 **Note:** This is a notification box.
 
 
