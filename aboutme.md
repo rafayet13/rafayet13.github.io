@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Rafayet Hossain
-subtitle: Big Data Analyst, SQA, Web Programmer, Writter & Internet Addict
+subtitle: Big Data Analyst, SQA, Web Programmer, Writer & Internet Addict
 ---
-Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like to work with honesty, sincerity, and creativity.
+Hello All,
+This Rafayet Hossain from Dhaka. A self-motivated person of positivity who likes to work with honesty, sincerity, and creativity.
 
 ## My website
 
@@ -14,6 +15,7 @@ Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like
 * [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
 * [Medium](https://medium.com/@rafayet13) • This is my medium page.
 * [LinkedIn](https://www.linkedin.com/in/rafayet13) • This is my LinkedIn Profile.
+* [Facebook](https://www.facebook.com/rafayethossain13) • This is my Facebook Profile.
 
 
 ## Me on Youtube
@@ -25,4 +27,5 @@ Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like
 
 * [LinkedIn](https://www.linkedin.com/in/rafayet13/) • Biggest sites for the professionals to share ones thoughts and views, also helpful getting new job. 
 * [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Rafayet Hossain](http://www.rafayet13.blogspot.com/).
-* () • More info is coming soon.
+
+* (comming) • More info is coming soon.
