@@ -8,6 +8,7 @@ bigimg: /img/back.gif
 share-img: /img/selenium-with-python.png
 ---
 
+## Hello Again, 
 
 
 ## Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver.
@@ -24,7 +25,7 @@ If you are using 32bit windows, download this package ``` "Python 3.6.0 Windows 
 For 64 bit windows, download and install the package ``` "Python 3.6.0 Windows X86-64 MSI Installer". ```
 
 # Step 2: 
-python is installed at C:\Python34 folder by default. 
+python is installed at ``` C:\Python34 ``` folder by default. 
 Start a command prompt using the "cmd.exe" program and run the "pip.exe" command as given below to install or upgrade selenium. 
 
 ``` C:\Python34\Scripts\pip.exe install -U selenium ```
@@ -40,14 +41,9 @@ from selenium import webdriver
 browser = webdriver.Firefox()
 browser.get('http://www.google.com')
 ```
-* More information can be found on Python Selenium site. *
-
-## Note
-{: .box-note}
-
-**Note:** This is a notification box.
+*More information can be found on Python Selenium site.*
 
 
-#See Yaaa, Next 
+# See Yaaa, Next 
 
 ![Selenium with Python](/img/selenium-with-python.png "Selenium with Python")
