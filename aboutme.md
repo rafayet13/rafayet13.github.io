@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Rafayet Hossain
-subtitle: Big Data Analyst, SQA, Web Programmer, Writer & Internet Addict
+subtitle: Certified Six Sigma Black Belt, Big Data Analyst, Professional SQA & Techie 
 ---
-Hello All,
-This Rafayet Hossain from Dhaka, Bangladesh, a self-motivated person of positivity who likes to work with honesty, sincerity, and creativity. I firmly believe in hard work, I'm always open to new idea.
+Hey All,
+This Rafayet Hossain from Dhaka, Bangladesh. I am incredibly detailed Critical thinker with Data Analysis skills and Bachelor’s degree in Computer Science & Engineering.Hopeful to secure the position of Quality Assurance Analyst in a company where professionalism is rewarded bringing years of professional experience. I firmly believe in hard work, I'm always open to new idea.
+
 
 ## My website
 
@@ -27,5 +28,5 @@ This Rafayet Hossain from Dhaka, Bangladesh, a self-motivated person of positivi
 
 * [LinkedIn](https://www.linkedin.com/in/rafayet13/) • Biggest sites for the professionals to share ones thoughts and views, also helpful getting new job. 
 * [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Rafayet Hossain](http://www.rafayet13.blogspot.com/).
-
+* [Career Insights](https://medium.com/career-insight) • Bangla Blog for Career Growth.
 * (comming) • More info is coming soon.
